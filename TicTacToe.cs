@@ -9,8 +9,7 @@ class TicTacToe
     
     public static void Main(string[] args)
     {
-        //int spieler = 1;
-        //int[] feld = new int[9];
+        
         bool spielende = false;
         do
         {
@@ -120,4 +119,3 @@ class TicTacToe
     }
 }
 
-// currentPlayer = (currentPlayer == 'X') ? 'O' : 'X';
